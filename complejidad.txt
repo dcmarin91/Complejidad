@@ -1,0 +1,15 @@
+***ejercicio1***
+complejidad temporal: O(n*m*min(n,m))
+complejidad espacial: O(min(n,m))
+***ejercicio2***
+complejidad temporal: O(n)
+complejidad espacial: O(1)
+***ejercicio3***
+complejidad temporal: O(n^2)
+complejidad espacial: O(0) 
+***ejercicio4***
+complejidad temporal: O(n^2)
+complejidad espacial: O(n)
+***ejercicio5***
+complejidad temporal: O(n^2)
+complejidad espacial: O(n)
